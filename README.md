@@ -1,3 +1,9 @@
+# UNO Battle Arena
+It's just a simple Uno game. Not much to brag about, but it works!
+
+
+<img src="https://i.ibb.co/TMZW7C3/Screenshot-195.png" alt="Screenshot-195" border="0">
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
